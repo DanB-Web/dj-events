@@ -1,4 +1,7 @@
-import Layout from '../components/Layout'
+/*
+'/about' PAGE
+*/
+import Layout from '@/components/Layout'
 
 export default function AboutPage() {
   return (
